@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alds19
-- 🌱 I’m currently learning CSS
+- 🎓 Computer Science Student
+- 🌱 I’m currently learning BootStrap
 - 📫 How to reach me, @alds194 on instagram
-
-
+- 🖥️ Aspired to become a Web Developer

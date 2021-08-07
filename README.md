@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alds19
+- 👋 Hi, I’m Gayatri!
 - 🎓 Computer Science Student
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me, @alds194 on instagram
 - 🖥️ Aspired to become a Web Developer
-- ![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=alds194&show_icons=true&theme=prussian)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alds194)](https://github.com/alds194/github-readme-stats)
+- ![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatrisrinivasan&show_icons=true&theme=prussian)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrisrinivasan)](https://github.com/gayatrisrinivasan/github-readme-stats)
